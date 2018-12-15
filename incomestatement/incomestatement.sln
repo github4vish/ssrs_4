@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "incomestatement", "incomestatement\incomestatement.rptproj", "{9AC7E092-38F7-4A6F-B994-0962A3E7637A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Debug|Default.ActiveCfg = Debug
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Debug|Default.Build.0 = DebugLocal
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Debug|Default.Deploy.0 = DebugLocal
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.DebugLocal|Default.Build.0 = DebugLocal
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Release|Default.ActiveCfg = Release
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Release|Default.Build.0 = Release
+		{9AC7E092-38F7-4A6F-B994-0962A3E7637A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

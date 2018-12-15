@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "countrysales", "countrysales\countrysales.rptproj", "{B393173E-0281-400A-9A74-45D4681E4318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B393173E-0281-400A-9A74-45D4681E4318}.Debug|Default.ActiveCfg = Debug
+		{B393173E-0281-400A-9A74-45D4681E4318}.Debug|Default.Build.0 = DebugLocal
+		{B393173E-0281-400A-9A74-45D4681E4318}.Debug|Default.Deploy.0 = DebugLocal
+		{B393173E-0281-400A-9A74-45D4681E4318}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B393173E-0281-400A-9A74-45D4681E4318}.DebugLocal|Default.Build.0 = DebugLocal
+		{B393173E-0281-400A-9A74-45D4681E4318}.Release|Default.ActiveCfg = Release
+		{B393173E-0281-400A-9A74-45D4681E4318}.Release|Default.Build.0 = Release
+		{B393173E-0281-400A-9A74-45D4681E4318}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
